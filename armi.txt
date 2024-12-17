@@ -1,0 +1,25 @@
+Spada sola              Sword                SW
+Spada & Daga            Sword & Dagger       SD
+Spada & Brocchiere      Sword & Buckler      SB
+Spada & Rotella         Sword & Rotella      SR
+Spada & Cappa           Sword & Cape         SC
+2 Spade                 2 Swords             2S
+2 Mani                  LongSword            LS
+Daga & Cappa            Dagger & Cape        DC
+Messer & Brocchiero     Messer & Buckler     MB
+Lanciotto               Lance                LA
+Lanciotto & Rotella     Lance & Rotella      LR
+Sciabola                Saber                SA
+
+EXTRA                   EXTRA
+Medievale & Brocchiero  Medieval & Buckler   I33
+2 Daghe                 2 Daggers            2D
+Sciabola & Daga         Saber & Dagger       SAD
+Sciabola & Brocchiere   Saber & Buckler      SAB
+Sciabola & Rotella      Saber & Rotella      SAR
+Sciabola & Cappa        Saber & Cape         SAC
+2 Sciabole              2 Sabers             2SA
+
+FERRO                   STEEL
+Striscia                Rapier               RA
+Spadino                 Smallsword           SM
